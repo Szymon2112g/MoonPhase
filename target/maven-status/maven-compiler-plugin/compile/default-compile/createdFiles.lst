@@ -1,0 +1,4 @@
+view\View.class
+controller\Main.class
+model\Moon.class
+model\PhaseException.class
